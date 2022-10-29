@@ -2,9 +2,21 @@
 
 <h2>Olá! Eu sou o Filipe e é um prazer te ter aqui no meu GitHub! 🖖</h2>
 
-<img height="100px" src="https://user-images.githubusercontent.com/103070455/192915534-bd318f22-8ca9-4c2f-9ec1-8da6206e8b5f.gif">
+<img height="100px" src="https://user-images.githubusercontent.com/103070455/192915534-bd318f22-8ca9-4c2f-9ec1-8da6206e8b5f.gif"><br>
 
-<h4>Caso tenha interesse essas são algumas informações sobre mim:</h4>
+<a href="https://github.com/Filipeck">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filipeck&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipeck&layout=compact&langs_count=7&theme=merko"/></a>
+
+<br>
+  
+<h3>Tecnologias com as quais trabalho:</h3>
+  <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+
+<hr><h4>Caso tenha interesse essas são algumas curiosidades sobre mim:</h4>
 
 ---
 
@@ -20,17 +32,4 @@
 
 ---
 
-  <a href="https://github.com/Filipeck">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filipeck&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipeck&layout=compact&langs_count=7&theme=merko"/>
-
-  <br><br>
-
-  <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-
-
-##
 </div>
