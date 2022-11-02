@@ -5,8 +5,8 @@
 <img height="100px" src="https://user-images.githubusercontent.com/103070455/192915534-bd318f22-8ca9-4c2f-9ec1-8da6206e8b5f.gif"><br>
 
 <a href="https://github.com/Filipeck">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filipeck&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipeck&layout=compact&langs_count=7&theme=gruvbox"/></a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filipeck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipeck&layout=compact&langs_count=7&theme=tokyonight"/></a>
 
 <br>
   
