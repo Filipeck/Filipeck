@@ -11,7 +11,7 @@
 <br>
   
 <h3>Tecnologias com as quais trabalho:</h3>
-  <img align="center" alt="Filipe-Ts" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg>
+  <img align="center" alt="Filipe-Ts" height="40" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg>
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
