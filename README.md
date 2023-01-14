@@ -5,9 +5,9 @@
   
 ---
 
- 🔭 Atualmente estou procurando o meu primeiro emprego na área de tecnologia.
+ 🔭 Atualmente estou procurando o meu primeiro emprego na área de tecnologia. <strike>Neste momento participando de um treinamento para uma vaga de estágio, assumo estar empolgado, espero conseguir passar nesse processo seletivo :)</strike>
 
- 🌱 Neste momento estou reforçando os meus aprendizados com Excel, CSS e JS, além de ampliando o conhecimento com a linguagem Java.
+ 🌱 Neste momento estou reforçando os meus aprendizados com Excel, CSS e JS, além de ampliando o conhecimento com a linguagem Java. <strike>Na vdd agora dei uma leve pausa nestes estudos, pois estou treinando o Dynamics 365, visando a minha primeira oportunidade no mercado que espero se concretizar :)</strike>
 
  📫 Para me contatar você pode se conectar comigo no <a href="https://www.linkedin.com/in/filipe-cayres/">LinkedIn</a>, ou através do email <a href="mail:contato.fcayres@gmail.com">contato.fcayres@gmail.com</a>.
 
