@@ -5,9 +5,9 @@
   
 ---
 
- 🔭 Atualmente estou procurando o meu primeiro emprego na área de tecnologia.
+ 🔭 Atualmente estou procurando o meu primeiro emprego na área de tecnologia, mais especificamente na área de análise de dados.
 
- 🌱 Neste momento estou reforçando os meus aprendizados com Excel, CSS e JS, além de ampliando o conhecimento com a linguagem Java.
+ 🌱 Neste momento estou reforçando os meus aprendizados com Excel, Python e JS, além de ampliando o conhecimento com a linguagem Java.
 
  📫 Para me contatar você pode se conectar comigo no <a href="https://www.linkedin.com/in/filipe-cayres/">LinkedIn</a>, ou através do email <a href="mail:contato.fcayres@gmail.com">contato.fcayres@gmail.com</a>.
 
